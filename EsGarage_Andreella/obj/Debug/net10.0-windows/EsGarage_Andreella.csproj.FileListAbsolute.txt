@@ -1,0 +1,17 @@
+C:\Users\lorenzo\Desktop\c sharp\EsGarage_Andreella\EsGarage_Andreella\bin\Debug\net10.0-windows\EsGarage_Andreella.exe
+C:\Users\lorenzo\Desktop\c sharp\EsGarage_Andreella\EsGarage_Andreella\bin\Debug\net10.0-windows\EsGarage_Andreella.deps.json
+C:\Users\lorenzo\Desktop\c sharp\EsGarage_Andreella\EsGarage_Andreella\bin\Debug\net10.0-windows\EsGarage_Andreella.runtimeconfig.json
+C:\Users\lorenzo\Desktop\c sharp\EsGarage_Andreella\EsGarage_Andreella\bin\Debug\net10.0-windows\EsGarage_Andreella.dll
+C:\Users\lorenzo\Desktop\c sharp\EsGarage_Andreella\EsGarage_Andreella\bin\Debug\net10.0-windows\EsGarage_Andreella.pdb
+C:\Users\lorenzo\Desktop\c sharp\EsGarage_Andreella\EsGarage_Andreella\obj\Debug\net10.0-windows\EsGarage_Andreella.Form1.resources
+C:\Users\lorenzo\Desktop\c sharp\EsGarage_Andreella\EsGarage_Andreella\obj\Debug\net10.0-windows\EsGarage_Andreella.csproj.GenerateResource.cache
+C:\Users\lorenzo\Desktop\c sharp\EsGarage_Andreella\EsGarage_Andreella\obj\Debug\net10.0-windows\EsGarage_Andreella.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorenzo\Desktop\c sharp\EsGarage_Andreella\EsGarage_Andreella\obj\Debug\net10.0-windows\EsGarage_Andreella.AssemblyInfoInputs.cache
+C:\Users\lorenzo\Desktop\c sharp\EsGarage_Andreella\EsGarage_Andreella\obj\Debug\net10.0-windows\EsGarage_Andreella.AssemblyInfo.cs
+C:\Users\lorenzo\Desktop\c sharp\EsGarage_Andreella\EsGarage_Andreella\obj\Debug\net10.0-windows\EsGarage_Andreella.csproj.CoreCompileInputs.cache
+C:\Users\lorenzo\Desktop\c sharp\EsGarage_Andreella\EsGarage_Andreella\obj\Debug\net10.0-windows\EsGarage_Andreella.dll
+C:\Users\lorenzo\Desktop\c sharp\EsGarage_Andreella\EsGarage_Andreella\obj\Debug\net10.0-windows\refint\EsGarage_Andreella.dll
+C:\Users\lorenzo\Desktop\c sharp\EsGarage_Andreella\EsGarage_Andreella\obj\Debug\net10.0-windows\EsGarage_Andreella.pdb
+C:\Users\lorenzo\Desktop\c sharp\EsGarage_Andreella\EsGarage_Andreella\obj\Debug\net10.0-windows\EsGarage_Andreella.genruntimeconfig.cache
+C:\Users\lorenzo\Desktop\c sharp\EsGarage_Andreella\EsGarage_Andreella\obj\Debug\net10.0-windows\ref\EsGarage_Andreella.dll
+C:\Users\lorenzo\Desktop\c sharp\EsGarage_Andreella\EsGarage_Andreella\obj\Debug\net10.0-windows\EsGarage.75C93CD4.Up2Date
