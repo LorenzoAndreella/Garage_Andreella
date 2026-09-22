@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EsGarage_Andreella")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+858247f26b3ffa15043dbacb76240d03018fc15a")]
 [assembly: System.Reflection.AssemblyProductAttribute("EsGarage_Andreella")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EsGarage_Andreella")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

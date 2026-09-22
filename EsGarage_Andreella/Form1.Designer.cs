@@ -235,7 +235,7 @@
             lstGarage.FormattingEnabled = true;
             lstGarage.Location = new Point(439, 163);
             lstGarage.Name = "lstGarage";
-            lstGarage.Size = new Size(611, 310);
+            lstGarage.Size = new Size(671, 310);
             lstGarage.TabIndex = 18;
             // 
             // lblVeicolo
@@ -294,7 +294,7 @@
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1066, 529);
+            ClientSize = new Size(1122, 529);
             Controls.Add(lblGarage);
             Controls.Add(btnInformazioni);
             Controls.Add(btnRimuovi);

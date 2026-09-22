@@ -7,9 +7,9 @@ namespace EsGarage_Andreella
     public class CVeicolo
     {
         public int Id { get; set; }
-        public string Marca { get; set; }
-        public int Anno { get; set; }
-        public int Cilindrata { get; set; }
+        protected string Marca { get; set; }
+        protected int Anno { get; set; }
+        protected int Cilindrata { get; set; }
 
         public CVeicolo(int id, string marca, int anno, int cilindrata)
         {

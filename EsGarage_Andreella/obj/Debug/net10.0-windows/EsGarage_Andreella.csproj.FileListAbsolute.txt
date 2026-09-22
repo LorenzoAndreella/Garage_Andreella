@@ -15,3 +15,4 @@ C:\Users\lorenzo\Desktop\c sharp\EsGarage_Andreella\EsGarage_Andreella\obj\Debug
 C:\Users\lorenzo\Desktop\c sharp\EsGarage_Andreella\EsGarage_Andreella\obj\Debug\net10.0-windows\EsGarage_Andreella.genruntimeconfig.cache
 C:\Users\lorenzo\Desktop\c sharp\EsGarage_Andreella\EsGarage_Andreella\obj\Debug\net10.0-windows\ref\EsGarage_Andreella.dll
 C:\Users\lorenzo\Desktop\c sharp\EsGarage_Andreella\EsGarage_Andreella\obj\Debug\net10.0-windows\EsGarage.75C93CD4.Up2Date
+C:\Users\lorenzo\Desktop\c sharp\EsGarage_Andreella\EsGarage_Andreella\obj\Debug\net10.0-windows\EsGarage_Andreella.sourcelink.json
